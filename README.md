@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishy312
-- 👀 I’m interested in Machine leaning and Artificial Intelligence.
-- 🌱 I’m currently learning Python as my starting steps.
+- 👀 I have some experience in Python, Html, CSS.
+- 🌱 I’m currently learning Django Framework.
 - 💞️ I’m looking to collaborate on various projects. I see them as learning opportunity.
 - 📫 How to reach me - vishal.pal312@outlook.com
 
